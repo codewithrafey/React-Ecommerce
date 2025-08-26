@@ -1,5 +1,4 @@
 import React from 'react'
-import './Hero.css'
 import { HiArrowLongRight } from "react-icons/hi2";
 import hero_image from '../../assets/hero-image.png';
 
