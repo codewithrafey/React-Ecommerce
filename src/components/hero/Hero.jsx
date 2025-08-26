@@ -5,7 +5,7 @@ import hero_image from '../../assets/hero-image.png';
 
 function Hero() {
   return (
-    <div className="hero flex text-center md:justify-between md:px-24 px-8 py-10  items-center">
+    <div className="hero flex text-center bg-[linear-gradient(180deg,#fde1ff,#e1ffea22_60%)] min-h-screen md:justify-between md:px-24 px-8 py-10  items-center">
       {/* Left */}
       <div className="hero-left flex flex-col items-start justify-center gap-3 text-center md:text-left">
         <h2 className="font-bold text-sm sm:text-base">NEW ARRIVAL ONLY</h2>
